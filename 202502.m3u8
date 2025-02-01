@@ -1,0 +1,76 @@
+#EXTINF:-1 ,CNA亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 ,CNA亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 ,FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 ,法国时尚台
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
+#EXTINF:-1 ,时装频道
+http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
+
+#EXTINF:-1 ,ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 ,VBSTV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 ,Da Nang TV1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 ,Da Nang TV2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 ,VTC13
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?%243840x2160
+
+
+#EXTINF:-1 ,TVB明珠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 ,TVB翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 ,无线新聞台cooltv
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+
+#EXTINF:-1 ,无线新聞台flv
+http://ali.hlspull.yximgs.com/live/9c54a164d1ee6d0693947649a2560d0d.flv
+
+#EXTINF:-1 ,无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
+
+
+#EXTINF:-1 ,无线财经资讯台
+http://107.167.12.58:27347/livehttpplay?channel_id=30022
+
+#EXTINF:-1 ,半岛新闻台
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,Al Jazeera
+https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+
+#EXTINF:-1 ,TVB 功夫台(粵)
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+
+#EXTINF:-1 ,TVB星河
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+
+#EXTINF:-1 ,TVBJ2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+
+#EXTINF:-1 ,星空卫视
+http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+
+#EXTINF:-1 ,星影
+http://webmail.axxe.top:4022/rtp/239.3.1.94:4120
+
+#EXTINF:-1 ,东森新闻
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+
+#EXTINF:-1 ,中天新闻
+http://194.87.101.118/live.m3u8?c=7
+
+#EXTINF:-1 ,珠江台高清
+http://222.218.158.6:8181/tsfile/live/1000_1.m3u8
+
