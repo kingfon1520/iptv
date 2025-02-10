@@ -11,7 +11,7 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 ,时装频道
 http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 
-#EXTINF:-1 ,ANTV
+#EXTINF:-1 tvg-id="antv" tvg-logo="https://zh.m.wikipedia.org/zh-hant/File:Logoantv.png" group-title="VN", ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 ,VBSTV
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
